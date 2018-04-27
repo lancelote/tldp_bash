@@ -6,10 +6,6 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [Bash Guide for Beginners][2]
 - [Advanced Bash-Scripting Guide][3]
 
- [1]: http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
- [2]: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/index.html
- [3]: http://tldp.org/LDP/abs/html/index.html
-
 ## BASH Programming - Introduction HOW-TO
 
 - [x] 01. Introduction
@@ -24,9 +20,13 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [ ] 10. Misc
 - [ ] 11. Tables
 - [ ] 12. More Scripts
-- [ ] 13. When something goes wrond (debugging)
+- [ ] 13. When something goes wrong (debugging)
 - [ ] 14. About the document
 
 ## Bash Guide for Beginners
 
 ## Advance Bash-Scripting Guide
+
+ [1]: http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+ [2]: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/index.html
+ [3]: http://tldp.org/LDP/abs/html/index.html
