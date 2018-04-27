@@ -11,7 +11,7 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [x] 01 - Introduction
 - [x] [02 - Very simple Scripts](howto/02_very_simple_scripts)
 - [x] [03 - All about redirection](howto/03_all_about_redirection)
-- [ ] 04 - Pipes
+- [x] [04 - Pipes](howto/04_pipes)
 - [ ] 05 - Variables
 - [ ] 06 - Conditionals
 - [ ] 07 - Loops for, while and until
