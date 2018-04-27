@@ -10,7 +10,7 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 
 - [x] 01 - Introduction
 - [x] [02 - Very simple Scripts](howto/02_very_simple_scripts)
-- [ ] 03 - All about redirection
+- [x] [03 - All about redirection](howto/03_all_about_redirection)
 - [ ] 04 - Pipes
 - [ ] 05 - Variables
 - [ ] 06 - Conditionals
