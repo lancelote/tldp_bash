@@ -6,10 +6,10 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [Bash Guide for Beginners][2]
 - [Advanced Bash-Scripting Guide][3]
 
-## BASH Programming - Introduction HOW-TO
+## [BASH Programming - Introduction HOW-TO](howto)
 
 - [x] 01 - Introduction
-- [ ] 02 - Very simple Scripts
+- [x] [02 - Very simple Scripts](howto/02_very_simple_scripts)
 - [ ] 03 - All about redirection
 - [ ] 04 - Pipes
 - [ ] 05 - Variables
