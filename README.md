@@ -12,7 +12,7 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [x] [02 - Very simple Scripts](howto/02_very_simple_scripts)
 - [x] [03 - All about redirection](howto/03_all_about_redirection)
 - [x] [04 - Pipes](howto/04_pipes)
-- [ ] 05 - Variables
+- [x] [05 - Variables](howto/05_variables)
 - [ ] 06 - Conditionals
 - [ ] 07 - Loops for, while and until
 - [ ] 08 - Functions
