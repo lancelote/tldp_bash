@@ -16,7 +16,7 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [x] [06 - Conditionals](howto/06_conditions)
 - [x] [07 - Loops for, while and until](howto/07_loops_for_while_and_until)
 - [x] [08 - Functions](howto/08_functions)
-- [ ] 09 - User interfaces
+- [x] [09 - User interfaces](howto/09_user_interfaces)
 - [ ] 10 - Misc
 - [ ] 11 - Tables
 - [ ] 12 - More Scripts
