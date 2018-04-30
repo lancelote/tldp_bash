@@ -20,8 +20,8 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 - [x] [10 - Misc](howto/10_misc)
 - [x] [11 - Tables](howto/11_tables)
 - [x] [12 - More Scripts](howto/12_more_scripts)
-- [ ] 13 - When something goes wrong (debugging)
-- [ ] 14 - About the document
+- [x] 13 - When something goes wrong (debugging)
+- [x] 14 - About the document
 
 ## Bash Guide for Beginners
 
