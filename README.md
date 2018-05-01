@@ -25,6 +25,21 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 
 ## Bash Guide for Beginners
 
+- [ ] 00 - Introduction
+- [ ] 01 - Bash and Bash scripts
+- [ ] 02 - Writing and debugging scripts
+- [ ] 03 - The Bash environment
+- [ ] 04 - Regular expressions
+- [ ] 05 - The GNU sed stream editor
+- [ ] 06 - The GNU awk programming language
+- [ ] 07 - Conditional statements
+- [ ] 08 - Writing interactive scripts
+- [ ] 09 - Repetitive tasks
+- [ ] 10 - More on variables
+- [ ] 11 - Functions
+- [ ] 12 - Catching signals
+- [ ] AA - Shell Features
+
 ## Advance Bash-Scripting Guide
 
  [1]: http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
