@@ -26,7 +26,7 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 ## Bash Guide for Beginners
 
 - [x] 00 - Introduction
-- [ ] 01 - Bash and Bash scripts
+- [x] [01 - Bash and Bash scripts](begginners/01_bash_and_bash_scripts)
 - [ ] 02 - Writing and debugging scripts
 - [ ] 03 - The Bash environment
 - [ ] 04 - Regular expressions
