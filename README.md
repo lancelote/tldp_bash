@@ -27,7 +27,7 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
 
 - [x] 00 - Introduction
 - [x] [01 - Bash and Bash scripts](begginners/01_bash_and_bash_scripts)
-- [ ] 02 - Writing and debugging scripts
+- [ ] [02 - Writing and debugging scripts](begginners/02_writing_and_debugging_scripts)
 - [ ] 03 - The Bash environment
 - [ ] 04 - Regular expressions
 - [ ] 05 - The GNU sed stream editor
