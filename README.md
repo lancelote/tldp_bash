@@ -1,3 +1,7 @@
+# DROPPED
+
+Was a bit dissappointed in the resource quality. [See a relevant reddit comment][4].
+
 # tldp_bash
 
 Code examples from [TLDP](http://tldp.org/) bash guides:
@@ -45,3 +49,4 @@ Code examples from [TLDP](http://tldp.org/) bash guides:
  [1]: http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
  [2]: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/index.html
  [3]: http://tldp.org/LDP/abs/html/index.html
+ [4]: https://old.reddit.com/r/commandline/comments/8q99nd/advanced_bashscripting_guide_an_indepth/e0i7ixk/
